@@ -145,4 +145,4 @@ function isOnlyWhitespace(sourceStr) {
 
 
 
-//Loading and parsing a JSON object (help.json)
+//Loading and parsing a JSON object (help.json)alert('something')
